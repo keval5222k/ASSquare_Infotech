@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; ASSquare Infotech</title>
-	<atom:link href="https://keval5222k.github.io/ASSquare_infotech/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://keval5222k.github.io/ASSquare_infotech</link>
+	<atom:link href="https://ajay-sangani.github.io/ASSquare_infotech/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ajay-sangani.github.io/ASSquare_infotech</link>
 	<description></description>
 	<lastBuildDate>Sun, 14 Apr 2024 11:23:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://keval5222k.github.io/ASSquare_infotech/2024/04/14/hello-world/</link>
-					<comments>https://keval5222k.github.io/ASSquare_infotech/2024/04/14/hello-world/#comments</comments>
+		<link>https://ajay-sangani.github.io/ASSquare_infotech/2024/04/14/hello-world/</link>
+					<comments>https://ajay-sangani.github.io/ASSquare_infotech/2024/04/14/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[ASSquare_Infotech]]></dc:creator>
 		<pubDate>Sun, 14 Apr 2024 11:23:19 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://keval5222k.github.io/ASSquare_infotech/?p=1</guid>
+		<guid isPermaLink="false">https://ajay-sangani.github.io/ASSquare_infotech/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://keval5222k.github.io/ASSquare_infotech/2024/04/14/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ajay-sangani.github.io/ASSquare_infotech/2024/04/14/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
